@@ -20,6 +20,6 @@ It includes:
 2. Open `index.html` in your browser
 
 ## 🚀 Live Demo
-[Click here to view the website](https://ayushverma0508)
+[Click here to view the website](https://ayushverma0508.github.io/Task-8_Blog-Layout/)
 
 © 2025 My Blog
